@@ -1,7 +1,7 @@
 # LLDP Scanner for Mac OS
 
 # Installation
-1. [Wireshark](https://www.wireshark.org/download.html "Wireshark Download") <br>
+1. Download [Wireshark](https://www.wireshark.org/download.html "Wireshark Download") (Again) <br>
   a. Be sure to execute the following in the installer DMG file: "Install ChmodBPF.pkg" & "Add Wireshark to the system path.pkg". 
 3. Reboot Computer
 4. Download [lldp.sh](https://raw.githubusercontent.com/K-MTG/LLDP-Scanner-for-Mac-OS/master/lldp.sh "lldp.sh Download")
